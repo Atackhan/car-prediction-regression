@@ -1,7 +1,5 @@
 ---
 
-## **README.md**
-
 ```markdown
 # 🚗 Car Price Prediction Using Machine Learning
 
