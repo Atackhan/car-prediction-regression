@@ -94,9 +94,3 @@ The dataset contains the following features:
 
 👤 **Atakan AKIN**  
 
-### ✅ **How to Use It on GitHub**
-1. Copy the above markdown content.
-2. Create a new file in your GitHub repository called **README.md**.
-3. Paste the content and commit the changes.
-
-Bu **README.md** dosyası projenin yapısını, kullanılan teknolojileri ve nasıl çalıştırılacağını güzelce özetliyor. Eğer özel bir ekleme yapmak istersen bana söyleyebilirsin! 🚀
